@@ -1,0 +1,27 @@
+{
+  "identifier": "storekit-config",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "nc1",
+      "localizations": [
+        {
+          "description": "Annual vet spend summary export for insurance or taxes",
+          "displayName": "Vetbill Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "vetbill_pro_export",
+      "referenceName": "Vetbill Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
